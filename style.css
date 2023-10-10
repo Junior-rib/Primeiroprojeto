@@ -1,1 +1,10 @@
+:root {
+    --cor-titulos: #4a073c;
+    --cor-paragrafos: #f6f6f6;
+    --cor-bacground: #000;
+}
 
+* {
+    margin: 0;
+    padding: 0;
+}
